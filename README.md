@@ -23,8 +23,8 @@ The 2 pretrained models used here are:
 * streamlit (used for the deployment of the model)
  
  # Dataset:
- Flicker8k dataset: https://github.com/jbrownlee/Datasets/releases/download/Flickr8k/Flickr8k_Dataset.zip
- Flicker8k text : https://github.com/jbrownlee/Datasets/releases/download/Flickr8k/Flickr8k_text.zip
+ * Flicker8k dataset: https://github.com/jbrownlee/Datasets/releases/download/Flickr8k/Flickr8k_Dataset.zip
+ * Flicker8k text : https://github.com/jbrownlee/Datasets/releases/download/Flickr8k/Flickr8k_text.zip
  
  # Examples of the model genearting captions for test images:
  
