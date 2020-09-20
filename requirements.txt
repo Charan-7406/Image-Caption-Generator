@@ -1,0 +1,4 @@
+numpy==1.16.4
+streamlit
+keras
+tensorflow==2.0.0b1
