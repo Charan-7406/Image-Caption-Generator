@@ -1,4 +1,4 @@
-# Image-Caption_generator
+# Image-Caption-generator
 Image Captioning is the process of generating textual description of an image. It uses both Natural Language Processing and Computer Vision to generate the captions. It uses Artificial neural networks such as CNN and RNN.The model was trained on Flickr8k image dataset.Since the model was only trained on jpg image dataset, the model can take only jpg image as an input.
 The 2 pretrained models used here are:
             1. inceptionV3 model which is trained on imagenet dataset
