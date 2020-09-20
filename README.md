@@ -26,7 +26,10 @@ The 2 pretrained models used here are:
  * Flicker8k dataset: https://github.com/jbrownlee/Datasets/releases/download/Flickr8k/Flickr8k_Dataset.zip
  * Flicker8k text : https://github.com/jbrownlee/Datasets/releases/download/Flickr8k/Flickr8k_text.zip
  
- # Examples of the model genearting captions for test images:
+ # About the model created:
+ The loss value of  around **2.1** has been achieved , where the model was trained for 50 epochs  gives decent results. You can check out some examples of the caption generated on the test model in the . The rest of the examples are in the jupyter notebook. You can run the Jupyter Notebook and try out your own examples. *unique.p* is a pickle file which contains all the unique words in the vocabulary. 
+
+Everything is implemented in the Jupyter notebook which will hopefully make it easier to understand the code.
  
  
  
