@@ -20,14 +20,14 @@ The 2 pretrained models used here are:
 * PIL
 * glob
 * tqdm
- #for deployment i have used streamlit:
- streamlit
+* streamlit (used for the deployment of the model)
  
  # Dataset:
  Flicker8k dataset: https://github.com/jbrownlee/Datasets/releases/download/Flickr8k/Flickr8k_Dataset.zip
  Flicker8k text : https://github.com/jbrownlee/Datasets/releases/download/Flickr8k/Flickr8k_text.zip
  
- #examples of the model genearting captions for test images:
+ # Examples of the model genearting captions for test images:
+ 
  
  
  
