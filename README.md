@@ -32,7 +32,13 @@ The 2 pretrained models used here are:
  
  # About the model created:
  The loss value of  around **2.1** has been achieved , where the model was trained for 50 epochs  gives decent results. You can check out some examples of the caption generated on the test model in the snaps_generated_caption_for_testimage folder.The rest of the examples are in the jupyter notebook. You can run the Jupyter Notebook and try out your own examples.In the notebook i have trained model for 20 epochs since my gpu isnt good enough. I have uploaded model trained on 50 epochs using google colab.Everything is implemented in the Jupyter notebook which will hopefully make it easier to understand the code.
-  *unique.p* is a pickle file which contains all the unique words in the vocabulary. 
+ 
+ # This reprository contains:
+ * 2 pickle files which has all unique words coverted into numbers or tokens and vice versa.
+ * cap_model50.h5 which is the trained model.
+ * app.py which is the program which will be deployed on heroku.
+ * The remaing files such as setup.sh, requirements.txt, Procfile are used when deploying the model on heroku. 
+ 
 
 
  
