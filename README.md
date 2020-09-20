@@ -6,12 +6,12 @@ The 2 pretrained models used here are:
             
  
  # System requirements
- A good CPU and a GPU with atleast 8GB memory
- Atleast 8GB of RAM
+ A good CPU and a GPU with atleast 8GB memory.
+ Atleast 8GB of RAM.
  Active internet connection so that keras can download inceptionv3/vgg16 model weights and also glove model.
  If the system gpu not good enough use google colab.
  
- #required libraries for python
+# Libraries required
 * Keras 
 * Tensorflow 
 * tqdm
@@ -23,7 +23,7 @@ The 2 pretrained models used here are:
  #for deployment i have used streamlit:
  streamlit
  
- #dataset
+ # Dataset:
  Flicker8k dataset: https://github.com/jbrownlee/Datasets/releases/download/Flickr8k/Flickr8k_Dataset.zip
  Flicker8k text : https://github.com/jbrownlee/Datasets/releases/download/Flickr8k/Flickr8k_text.zip
  
