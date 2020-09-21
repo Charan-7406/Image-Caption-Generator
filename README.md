@@ -2,8 +2,8 @@
 Image Captioning is the process of generating textual description of an image. It uses both Natural Language Processing and Computer Vision to generate the captions. It uses Artificial neural networks such as CNN and RNN.The model was trained on Flickr8k image dataset.Since the model was only trained on jpg image dataset, the model can take only jpg image as an input.
 
 #The 2 pretrained models used here are:
- * 1. inceptionV3 model which is trained on imagenet dataset
- * 2. GloVe model which is an unsupervised learning algorithm. 
+ *  inceptionV3 model which is trained on imagenet dataset
+ *  GloVe model which is an unsupervised learning algorithm. 
             
  
  # System requirements
@@ -38,6 +38,7 @@ Image Captioning is the process of generating textual description of an image. I
  * 2 pickle files which has all unique words coverted into numbers or tokens and vice versa.
  * cap_model50.h5 which is the trained model.
  * app.py which is the program which will be deployed on heroku.
+ * Proj_imgcap notebook file which is the Jupyter notebook consisting of the implimented program.
  * The remaing files such as setup.sh, requirements.txt, Procfile are used when deploying the model on heroku. 
  
 
